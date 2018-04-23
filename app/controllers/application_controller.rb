@@ -10,4 +10,8 @@ class ApplicationController < ActionController::Base
     render html:"goodbye, world!"
   end
   
+  
+  def chenge
+    
+  end
 end
